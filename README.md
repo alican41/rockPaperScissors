@@ -1,2 +1,2 @@
 # Rock Paper Scissors Game 
-## Java Project App.
+## Java Project Swing App.
